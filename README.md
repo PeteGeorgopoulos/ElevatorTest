@@ -1,1 +1,1 @@
-# ElevatorTest
+The elevator program is designed to accomplish a couple things. The first is for the user to be able to take the elevator to different floors. Also the program should tell the user which direction the elevator was going or where it's coming from. I added a litle count down to make it a little more immersive. I plan on adding threads for random riders and a capacity. maybe when that is all done i'll throw some gui objects. 
